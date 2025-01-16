@@ -1,0 +1,37 @@
+Player 1:
+Surname: Pedro
+Age: 18
+Games: 4
+Goals: 2
+------------------------
+Player 2:
+Surname: Horhe
+Age: 34
+Games: 54
+Goals: 23
+------------------------
+Player 3:
+Surname: Lalo
+Age: 56
+Games: 45
+Goals: 67
+------------------------
+Player 4:
+Surname: Nacho
+Age: 56
+Games: 34
+Goals: 45
+------------------------
+Player 5:
+Surname: Melo
+Age: 32
+Games: 34
+Goals: 23
+------------------------
+
+The best striker is: Lalo
+Goals: 67
+Games: 45
+Age: 56
+
+Players who have played fewer games: Pedro
